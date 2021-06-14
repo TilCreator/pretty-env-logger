@@ -17,5 +17,5 @@ include = [
 ]
 
 [dependencies]
-env_logger = { git = "https://github.com/env-logger-rs/env_logger", rev = "1a8379a533f043e623d5eb4a898d171927ad61c1" }
+env_logger = { git = "https://github.com/TilCreator/env_logger", rev = "fbeebcf1081815b61568fb410b8dbb9747c57e0b" }
 log = "0.4"
